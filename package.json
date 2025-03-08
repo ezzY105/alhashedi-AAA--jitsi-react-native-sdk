@@ -1,6 +1,6 @@
 {
     "name": "alhashedi-aaa-jitsi-react-native-sdk",
-    "version": "10.2.1",
+    "version": "10.2.2",
     "description": "React Native SDK for Jitsi Meet.",
     "main": "index.tsx",
     "license": "Apache-2.0",
