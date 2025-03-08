@@ -1,5 +1,5 @@
 {
-    "name": "alhashedi-AAA-@jitsi/react-native-sdk",
+    "name": "alhashedi-AAA-jitsi/react-native-sdk",
     "version": "10.2.1",
     "description": "React Native SDK for Jitsi Meet.",
     "main": "index.tsx",
