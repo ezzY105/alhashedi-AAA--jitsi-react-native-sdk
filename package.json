@@ -1,10 +1,10 @@
 {
-    "name": "alhashedi-AAA-jitsi-react-native-sdk",
+    "name": "alhashedi-aaa-jitsi-react-native-sdk",
     "version": "10.2.1",
     "description": "React Native SDK for Jitsi Meet.",
     "main": "index.tsx",
     "license": "Apache-2.0",
-    "author": "",
+    "author": "ezz-alhashedi",
     "homepage": "https://jitsi.org",
     "repository": {
         "type": "git",
@@ -99,5 +99,6 @@
     },
     "keywords": [
         "react-native"
-    ]
+    ],
+    "devDependencies": {}
 }
